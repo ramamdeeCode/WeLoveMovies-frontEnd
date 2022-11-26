@@ -1,7 +1,7 @@
 # WeLoveMovies-Front-End
 #
 
-WeLoveMovies is your source for finding reviews of movies in theatres near you,you can see a list of Movies and list of Theaters.You can also see which theater is showing the movie and you can see and rate the movie.
+WeLoveMovies is your source for finding reviews of Movies in Theaters near you.You will be able to see which theater is showing  and you can see and rate  movies.
 
 
 
